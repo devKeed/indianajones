@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.header-image-container{
+    margin-top: 50px;
+    height: 350px;
+    background-image: url("images/header.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.margins{
+    margin: 2.5rem;
+}
+
+.topSpace{
+    margin-top: 2rem;
+}
+
+.paddings{
+    padding: 1.5rem;
+}
